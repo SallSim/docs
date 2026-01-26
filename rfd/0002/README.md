@@ -1,10 +1,3 @@
----
-title: "RFD2"
-authors: ["MrSimon"]
-state: prediscussion
-visibility: public
----
+# RFD 0002
 
-## The title
-
-Trying RFD's out.
+This RFD is no longer public.
