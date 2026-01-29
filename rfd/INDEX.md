@@ -1,3 +1,5 @@
 # Public RFD Index
 
-- [RFD 0001](./0001/README.md)
+| RFD id | RFD title | author(s) | state |
+|---:|---|---|---|
+| 0001 | [RFD Process](./0001/README.md) | MrSimon | discussion |
